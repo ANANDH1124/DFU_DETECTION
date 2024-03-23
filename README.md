@@ -9,14 +9,13 @@ Deep Learning Model: Utilizes a Convolutional Neural Network (CNN) architecture 
 Web Application Interface: Offers an intuitive web interface powered by Streamlit for users to upload images and receive instant predictions.
 User-friendly: Simple and easy-to-use interface suitable for both healthcare professionals and non-technical users.
 
-# INSTALLATION
-1 . Clone the repository to your local machine.
+# Clone the repository to your local machine.
     git clone https://github.com/your-username/dfu-classifier.git
-2 . Navigate to the project directory. 
+# Navigate to the project directory. 
     cd dfu-classifier
-3 . Install the required dependencies using pip.
+# Install the required dependencies using pip.
     pip install -r requirements.txt
-4 . Run the Streamlit app.
+# Run the Streamlit app.
     streamlit run dfu_classifier.py
 
 # CONTRIBUTING
