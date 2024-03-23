@@ -10,10 +10,14 @@ Web Application Interface: Offers an intuitive web interface powered by Streamli
 User-friendly: Simple and easy-to-use interface suitable for both healthcare professionals and non-technical users.
 
 # INSTALLATION
-git clone https://github.com/your-username/dfu-classifier.git
-cd dfu-classifier
-pip install -r requirements.txt
-streamlit run dfu_classifier.py
+1 . Clone the repository to your local machine.
+    git clone https://github.com/your-username/dfu-classifier.git
+2 . Navigate to the project directory. 
+    cd dfu-classifier
+3 . Install the required dependencies using pip.
+    pip install -r requirements.txt
+4 . Run the Streamlit app.
+    streamlit run dfu_classifier.py
 
 # CONTRIBUTING
 Contributions to the project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
